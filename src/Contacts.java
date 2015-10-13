@@ -25,7 +25,7 @@ public class Contacts {
                 break;
             }
         }
-        System.out.println(contactsUnderThirtD
+        System.out.println(contactsUnderThirty);
         ;
 
         HashMap<String, Contact> contactMap = new HashMap();
